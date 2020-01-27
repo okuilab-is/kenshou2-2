@@ -1,0 +1,26 @@
+-------------------------------------------------------
+<検証開始時>
+set path = ( `pwd` $path )
+startss
+history -c
+問題を開く
+　　プレテスト
+	https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkoxuMh5r
+    教育段階_グループ1(d)
+        問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkiTFMObU
+        問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/Hy9ocMO-I
+    教育段階_グループ2（s)
+        問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/Bk2fCM_WI
+        問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SJH2y7OW8
+　　最終段階
+	https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SkQ3iGdZ8
+clear
+
+-------------------------------------------------------
+<検証終了時>
+history > his-$USER
+gitss
+git push origin HEAD
+endss
+
+-------------------------------------------------------
