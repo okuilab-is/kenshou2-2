@@ -2,7 +2,6 @@
 chmod 755 gcc
 chmod 755 endss
 chmod 755 gitss
-/home/usr3/p16/p16018/.netrc > ~/.netrc
 git config --local user.name ep
 git config --local user.email ep16018@sti.chubu.ac.jp
 git branch $USER
