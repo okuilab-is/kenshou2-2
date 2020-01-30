@@ -13,4 +13,5 @@ int main(void){
  for(i=0;i<m;i++){
   printf("%d ",h[i]);
  }
+ printf("\n");
 }
