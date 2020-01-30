@@ -2,10 +2,10 @@
 #define B 32
 
 int main(){
-  int i,n,num,b[B]=0;
-  /*for(i=0;i<B;i++){
+  int i,n,num,b[B];
+  for(i=0;i<B;i++){
     b[i]=0;
-  }*/
+  }
   scanf("%d",&n);
 
   for(i=0;i<n;i++){
