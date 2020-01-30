@@ -1,0 +1,46 @@
+    61	13:37	clear
+    62	13:38	vi ~/.vimrc
+    63	13:40	vi ~/.vimrc
+    64	13:41	vi ~/.vimrc
+    65	13:42	vi ~/.vimrc
+    66	13:45	vi kadai1-1-ep17112.c
+    67	13:54	gcc kadai1-1-ep17112.c
+    68	13:54	vi kadai1-1-ep17112.c
+    69	13:54	gcc kadai1-1-ep17112.c
+    70	13:55	a.out
+    71	13:55	a.out
+    72	13:55	vi kadai1-1-ep17112.c
+    73	13:57	gcc kadai1-1-ep17112.c
+    74	13:57	a.out
+    75	13:57	vi kadai1-1-ep17112.c
+    76	13:57	gcc kadai1-1-ep17112.c
+    77	13:57	a.out
+    78	13:58	history > his-1-$USER
+    79	13:58	cp kadai1-1-ep17112.c kadai1-1-ep17112.c
+    80	13:58	cp kadai1-1-ep17112.c kadai1-1-ep17112.c
+    81	13:58	cp kadai1-1-ep17112.c kadai1-2-ep17112.c
+    82	13:58	ls
+    83	13:59	vi kadai1-2-ep17112.c
+    84	14:02	gcc kadai1-2-ep17112.c
+    85	14:02	vi kadai1-2-ep17112.c
+    86	14:03	gcc kadai1-2-ep17112.c
+    87	14:03	a.out
+    88	14:03	a.out
+    89	14:04	history > his-2-$USER
+    90	14:04	vi kadai2-1-ep17112.c
+    91	14:11	gcc kadai2-1-ep17112.c
+    92	14:11	a.out
+    93	14:11	history > his-3-$USER
+    94	14:12	cp kadai2-1-ep17112.c kadai2-2-ep17112.c
+    95	14:12	ls
+    96	14:12	vi kadai2-2-ep17112.c
+    97	14:15	gcc kadai2-2-ep17112.c
+    98	14:16	a.out
+    99	14:16	vi kadai2-2-ep17112.c
+   100	14:19	gcc kadai2-2-ep17112.c
+   101	14:20	a.out
+   102	14:20	vi kadai2-2-ep17112.c
+   103	14:24	gcc kadai2-2-ep17112.c
+   104	14:24	a.out
+   105	14:25	cat info
+   106	14:25	history > his-$USER
