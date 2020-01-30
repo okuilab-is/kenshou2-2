@@ -2,7 +2,7 @@
 
 int main(void){
  int h[13],n,m=13,a,i;
- for(i=0;i<m,i++){
+ for(i=0;i<m;i++){
   h[i]=-1;
  }
  scanf("%d",&n);
