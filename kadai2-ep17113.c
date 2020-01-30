@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-
-
 int main(){
-  int i,num,h,num2;
+  int i,num,h,num2,n;
 
   scanf("%d",&n);
  
@@ -11,6 +9,7 @@ int main(){
   for(i=0;i<13;i++){
     a[13]=-1;
   }
+
   for(i=0;i<n;i++){
     scanf("%d",&num);
     h=num%13;
@@ -20,6 +19,7 @@ int main(){
     }  
     a[h]=num;
   }
+
   for(i=0;i<13;i++){
     printf("%d",a[i]);
   }  
