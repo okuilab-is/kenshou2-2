@@ -5,8 +5,10 @@ int main(){
 	for(i=0;i<n;i++){
 		scanf("%d",&j);
 		k=j%13;
-		while(a[k]>0){k=(j+1)%13;
+		while(a[k]>0){
+			k=(j+1)%13;
                         a[k]=j;
+			break;
                 }
 		while(a[k]<0){a[k]=j;}
 	}
