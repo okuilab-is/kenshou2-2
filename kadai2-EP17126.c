@@ -12,6 +12,6 @@ int main(void){
 	}
 
 	for(i=0;i<13;i++){
-		printf("%d\n"x[i]);
+		printf("%d\n",x[i]);
 	}
 }
