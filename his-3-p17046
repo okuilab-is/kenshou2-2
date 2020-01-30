@@ -1,0 +1,30 @@
+    43	13:32	vi test.c
+    44	13:32	gcc test.c
+    45	13:32	clear
+    46	13:47	vi kadai1-1-ep17046.c
+    47	13:55	gcc kadai1-1-ep17046.c
+    48	13:55	a.out
+    49	13:56	a.out
+    50	13:57	history > his-1-$USER
+    51	13:57	vi kadai1-1-ep17046.c
+    52	13:57	vi kadai1-2-ep17046.c
+    53	14:00	gcc kadai1-2-ep17046.c
+    54	14:00	a.out
+    55	14:00	a.out
+    56	14:01	vi kadai1-2-ep17046.c
+    57	14:02	history > his-2-$USER
+    58	14:06	vi kadai2-1-ep17046.c
+    59	14:15	gcc kadai2-1-ep17046.c
+    60	14:16	vi kadai2-1-ep17046.c
+    61	14:16	gcc kadai2-1-ep17046.c
+    62	14:17	vi kadai2-1-ep17046.c
+    63	14:17	gcc kadai2-1-ep17046.c
+    64	14:17	vi kadai2-1-ep17046.c
+    65	14:17	gcc kadai2-1-ep17046.c
+    66	14:17	a.out
+    67	14:18	vi kadai2-1-ep17046.c
+    68	14:18	gcc kadai2-1-ep17046.c
+    69	14:18	a.out
+    70	14:18	vi kadai2-1-ep17046.c
+    71	14:19	vi kadai2-2-ep17046.c
+    72	14:19	history > his-3-$USER
