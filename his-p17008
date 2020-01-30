@@ -1,0 +1,28 @@
+    26	15:14	clear
+    27	15:17	vi test.c
+    28	15:17	gcc test.c
+    29	15:17	clear
+    30	15:36	vi kadai1-1-ep17008.c
+    31	15:44	gcc kadai1-1-ep17008.c -O kadai1-1-ep17008
+    32	15:44	gcc kadai1-1-ep17008.c
+    33	15:44	vi kadai1-1-ep17008.c
+    34	15:44	gcc kadai1-1-ep17008.c
+    35	15:44	./a.out
+    36	15:45	vi kadai1-1-ep17008.c
+    37	15:47	gcc kadai1-1-ep17008.c
+    38	15:47	./a.out
+    39	15:48	vi kadai1-1-ep17008.c
+    40	15:48	./a.out
+    41	15:48	gcc kadai1-1-ep17008.c
+    42	15:48	./a.out
+    43	15:48	./a.out
+    44	15:50	history > his-1-$USER
+    45	15:51	cp kadai1-2-ep17008.c kadai1-1-ep17008.c
+    46	15:51	cp kadai1-1-ep17008.c kadai1-2-ep17008.c
+    47	15:51	vi kadai1-2-ep17008.c
+    48	15:54	gcc kadai1-2-ep17008.c
+    49	15:54	./a.out
+    50	15:55	./a.out
+    51	15:57	vi kadai1-2-ep17008.c
+    52	15:57	cat info
+    53	15:57	history > his-$USER
