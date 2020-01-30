@@ -12,6 +12,7 @@ int main(){
 
   for(i=0;i<n;i++){
     scanf("%d",&num);
+    printf("aa\n");
     h=num%13;
     while(a[h]!=(-1)){
       num2=num+1;
@@ -23,5 +24,5 @@ int main(){
   for(i=0;i<13;i++){
     printf("%d",a[i]);
   }  
-
+  printf("\n");
 }
