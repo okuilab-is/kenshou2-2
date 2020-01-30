@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
-	int a[13]={-1},i,j,k,n;
+	int a[13]={-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1},i,j,k,n;
 	scanf("%d",&n);
 	for(i=0;i<n;i++){
 		scanf("%d",&j);
