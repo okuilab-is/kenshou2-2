@@ -1,7 +1,7 @@
 #include<stdio.h>
 //EP16026 Ogura.K
 int main(void){
-  int n,m,i,bag[32];
+  int n,m,i,bag[];
   scanf("%d\n",&n);
   for(i=0;i<=n;++i){
     scanf("%d\n",&m);
