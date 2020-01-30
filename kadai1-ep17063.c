@@ -13,10 +13,11 @@ int main(){
     b[num]+=1;
   }
 
-  i=0;
-  while(h[i]!=0){
-    printf("%d",h[i]);
-    h[i]--;
+  for(i=0;i<B;i++){
+    while(h[i]!=0){
+      printf("%d",h[i]);
+      h[i]--;
+    }
   }
   return 0;
 }
