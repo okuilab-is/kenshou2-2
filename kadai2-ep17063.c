@@ -12,6 +12,7 @@ int main(){
     k = num % H;
     while(h[k]!=-1){
       k++;
+      k = k % H;
     }
     h[k] = num;
   }
