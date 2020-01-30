@@ -3,7 +3,7 @@
 int main(void){
   int n,m,i,j,bag[32];
   scanf("%d\n",&n);
-  for(i=0;i<=n;++i){
+  for(i=1;i<=n;++i){
     scanf("%d\n",&m);
     bag[m]=bag[m]+1;
   }
