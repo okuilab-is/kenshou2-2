@@ -10,7 +10,7 @@ int main(void){
   scanf("%d",&a);
   h[a%m]=a;
  }
- for(i=0;i<m;i++)
+ for(i=0;i<m;i++){
   printf("%d ",h[i]);
  }
 }
