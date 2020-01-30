@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	int n,i,x[32],m;
+	int n,i,x[32]*0,m;
 	scanf("%d",&n);
 	//for(i=0;i<32;i++){
 	//	x[i]=0;
