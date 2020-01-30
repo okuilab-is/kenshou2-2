@@ -1,0 +1,64 @@
+    98	15:33	vi test.c
+    99	15:33	gcc test.c
+   100	15:33	clear
+   101	15:33	cat info
+   102	15:34	clear
+   103	15:36	vi kadai1-1-EP16026.c
+   104	15:56	gcc kadai1-1-EP16026.c
+   105	15:56	vi kadai1-1-EP16026.c
+   106	15:57	vi kadai1-1-EP16026.c
+   107	15:58	gcc kadai1-1-EP16026.c
+   108	15:58	a.out
+   109	15:59	vi kadai1-1-EP16026.c
+   110	16:00	gcc kadai1-1-EP16026.c
+   111	16:00	vi kadai1-1-EP16026.c
+   112	16:02	gcc kadai1-1-EP16026.c
+   113	16:02	vi kadai1-1-EP16026.c
+   114	16:03	gcc kadai1-1-EP16026.c
+   115	16:03	a.out
+   116	16:03	vi kadai1-1-EP16026.c
+   117	16:04	gcc kadai1-1-EP16026.c
+   118	16:04	a.out
+   119	16:05	vi kadai1-1-EP16026.c
+   120	16:07	gcc kadai1-1-EP16026.c
+   121	16:07	vi kadai1-1-EP16026.c
+   122	16:09	gcc kadai1-1-EP16026.c
+   123	16:09	vi kadai1-1-EP16026.c
+   124	16:09	gcc kadai1-1-EP16026.c
+   125	16:10	a.out
+   126	16:10	gcc kadai1-1-EP16026.c
+   127	16:10	vi kadai1-1-EP16026.c
+   128	16:14	gcc kadai1-1-EP16026.c
+   129	16:14	a.out
+   130	16:16	vi kadai1-1-EP16026.c
+   131	16:17	vi kadai1-1-EP16026.c
+   132	16:17	gcc kadai1-1-EP16026.c
+   133	16:17	a.out
+   134	16:18	vi kadai1-1-EP16026.c
+   135	16:18	gcc kadai1-1-EP16026.c
+   136	16:18	a.out
+   137	16:19	vi kadai1-1-EP16026.c
+   138	16:19	gcc kadai1-1-EP16026.c
+   139	16:19	vi kadai1-1-EP16026.c
+   140	16:20	gcc kadai1-1-EP16026.c
+   141	16:20	a.out
+   142	16:20	vi kadai1-1-EP16026.c
+   143	16:26	gcc kadai1-1-EP16026.c
+   144	16:26	vi kadai1-1-EP16026.c
+   145	16:26	gcc kadai1-1-EP16026.c
+   146	16:26	vi kadai1-1-EP16026.c
+   147	16:27	gcc kadai1-1-EP16026.c
+   148	16:27	a.out
+   149	16:28	history
+   150	16:28	his-1-$USER
+   151	16:28	history > his-1-$USER
+   152	16:29	mv kadai1-1-EP16026.c kadai1-2-EP16026
+   153	16:29	mv kadai1-2-EP16026 kadai1-2-EP16026.c
+   154	16:29	vi kadai1-2-EP16026.c
+   155	16:41	gcc kadai1-2-EP16026.c
+   156	16:41	vi kadai1-2-EP16026.c
+   157	16:42	gcc kadai1-2-EP16026.c
+   158	16:42	a.out
+   159	16:43	a.out
+   160	16:46	cat info
+   161	16:46	history > his-$USER
