@@ -9,8 +9,9 @@ int main(void){
       if(ans[a%13] == -1){
 	ans[a%13]=a;
 	break;
+      }else{
+	a++;
       }
-      a++;
     }
   }
   for(i=0;i<13;i++)printf("%d ",ans[i]);
