@@ -7,6 +7,6 @@ int main(void){
     scanf("%d",&a);
     ans[a%13]=a;
   }
-  for(i=0;i<num;i++)printf("%d",ans[i]);
+  for(i=0;i<num;i++)printf("%d ",ans[i]);
   printf("\n");
 }
