@@ -1,0 +1,34 @@
+    38	13:35	clear
+    39	13:40	vim ~/.vimrc
+    40	13:41	vim ~/.vimrc
+    41	13:44	vim kadai1-ep17113.c
+    42	13:52	gcc kadai1-ep17113.c
+    43	13:52	vim kadai1-ep17113.c
+    44	13:53	vim kadai1-ep17113.c
+    45	13:54	gcc kadai1-ep17113.c
+    46	13:54	vim kadai1-ep17113.c
+    47	13:54	gcc kadai1-ep17113.c
+    48	13:54	ls
+    49	13:54	./a.out
+    50	13:55	vim kadai1-ep17113.c
+    51	13:55	gcc kadai1-ep17113.c
+    52	13:55	./a.out
+    53	13:55	./a.out
+    54	13:56	vim kadai1-ep17113.c
+    55	13:57	vim kadai2-ep17113.c
+    56	14:10	gcc kadai2-ep17113.c
+    57	14:10	vim kadai2-ep17113.c
+    58	14:10	gcc kadai2-ep17113.c
+    59	14:10	./a.out
+    60	14:11	vim kadai2-ep17113.c
+    61	14:12	gcc kadai2-ep17113.c
+    62	14:12	./a.out
+    63	14:13	vim kadai2-ep17113.c
+    64	14:14	gcc kadai2-ep17113.c
+    65	14:14	./a.out
+    66	14:14	vim kadai2-ep17113.c
+    67	14:15	gcc kadai2-ep17113.c
+    68	14:15	./a.out
+    69	14:15	vim kadai2-ep17113.c
+    70	14:16	cat info
+    71	14:17	history > his-$USER
