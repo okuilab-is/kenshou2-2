@@ -9,9 +9,8 @@ int main(void){
   }
   for(i=0;i<32;i++){
     for(j=0;j<a[now];j++){
-      printf("%d ",a[j]);
+      printf("%d ",i);
     }
-    now++;
   }
   printf("\n");
 }
