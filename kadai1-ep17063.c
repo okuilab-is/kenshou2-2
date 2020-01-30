@@ -15,9 +15,10 @@ int main(){
 
   for(i=0;i<B;i++){
     while(b[i]!=0){
-      printf("%d",b[i]);
+      printf("%d ",b[i]);
       b[i]--;
     }
   }
+  printf("\n");
   return 0;
 }
