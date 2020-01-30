@@ -9,10 +9,12 @@ int main(void){
     scanf("%d",&x);
     y[x]+=1;
   }
+  //----------------------//
   for(i=0;i<32;i++){
-    
-    printf("%d",&y);
-    y[x]-=1;
+    for(y[i];y[i]>0;y[i]--){
+      printf("%d",i);
+    }
   }
+  printf("\n");
   return 0;
 }
