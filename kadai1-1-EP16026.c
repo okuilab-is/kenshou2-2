@@ -10,6 +10,6 @@ int main(void){
     scanf("%d",&m);
     bag[m]=bag[m]+1;
   }
-  printf("%d\n",bag);
+  printf("%d\n",bag[32]);
 }
 
