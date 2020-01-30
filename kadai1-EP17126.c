@@ -1,11 +1,11 @@
 #include <stdio.h>
-
+int x[32];
 int main(void){
-	int n,i,x[32]*0,m;
+	int n,i,m;
 	scanf("%d",&n);
-	//for(i=0;i<32;i++){
-	//	x[i]=0;
-	//}
+	for(i=0;i<32;i++){
+		x[i]=0;
+	}
 	for(i=0;i<n;i++){
 		scanf("%d",&m);
 		x[m]++;
