@@ -1,0 +1,18 @@
+    61	13:37	clear
+    62	13:38	vi ~/.vimrc
+    63	13:40	vi ~/.vimrc
+    64	13:41	vi ~/.vimrc
+    65	13:42	vi ~/.vimrc
+    66	13:45	vi kadai1-1-ep17112.c
+    67	13:54	gcc kadai1-1-ep17112.c
+    68	13:54	vi kadai1-1-ep17112.c
+    69	13:54	gcc kadai1-1-ep17112.c
+    70	13:55	a.out
+    71	13:55	a.out
+    72	13:55	vi kadai1-1-ep17112.c
+    73	13:57	gcc kadai1-1-ep17112.c
+    74	13:57	a.out
+    75	13:57	vi kadai1-1-ep17112.c
+    76	13:57	gcc kadai1-1-ep17112.c
+    77	13:57	a.out
+    78	13:58	history > his-1-$USER
