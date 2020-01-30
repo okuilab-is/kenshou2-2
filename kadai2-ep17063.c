@@ -17,7 +17,8 @@ int main(){
   }
 
   for(i=0;i<H;i++){
-    printf("%d \n",h[i]);  
+    printf("%d ",h[i]);  
   }
+  printf("\n");
   return 0;
 }
