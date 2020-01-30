@@ -1,0 +1,11 @@
+    50	15:27	vi test.c
+    51	15:27	gcc test.c
+    52	15:27	clear
+    53	15:35	emacs kadai1-1-ep17014.c
+    54	15:43	gcc kadai1-1-ep17014.c
+    55	15:43	a.out
+    56	15:43	emacs kadai1-1-ep17014.c
+    57	15:44	gcc kadai1-1-ep17014.c
+    58	15:44	a.out
+    59	15:44	a.out
+    60	15:45	history > his-1-$USER
