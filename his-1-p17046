@@ -1,0 +1,8 @@
+    43	13:32	vi test.c
+    44	13:32	gcc test.c
+    45	13:32	clear
+    46	13:47	vi kadai1-1-ep17046.c
+    47	13:55	gcc kadai1-1-ep17046.c
+    48	13:55	a.out
+    49	13:56	a.out
+    50	13:57	history > his-1-$USER
