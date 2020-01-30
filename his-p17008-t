@@ -68,3 +68,4 @@
     68	16:38	vi kadai2-2-ep17008.c
     69	16:40	cat info
     70	16:41	history > his-$USER
+    71	16:41	history > his-$USER-t
