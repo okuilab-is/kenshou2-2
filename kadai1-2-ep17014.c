@@ -8,9 +8,10 @@ int main(void){
     a[num]++;
   }
   for(i=0;i<32;i++){
-    for(j=0;j<a[now];j++){
-      printf("%d ",i);
+    for(j=0;j<a[j];j++){
+      printf("%d ",j);
     }
   }
+  
   printf("\n");
 }
