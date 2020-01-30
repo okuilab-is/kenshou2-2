@@ -2,7 +2,7 @@
 
 int main(void){
 	int n,i,j,num,x[13];
-	scanf("&d",&n);
+	scanf("%d",&n);
 	for(i=0;i<13;i++){x[i]=-1;}
 	for(i=0;i<n;i++){
 		scanf("%d",&num);
