@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main(){
 	int a[8]={-1},i,j,k,n;
 	scanf("%d",&n);
