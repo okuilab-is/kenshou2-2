@@ -14,9 +14,9 @@ int main(){
   }
 
   for(i=0;i<B;i++){
-    while(h[i]!=0){
+    while(b[i]!=0){
       printf("%d",h[i]);
-      h[i]--;
+      b[i]--;
     }
   }
   return 0;
