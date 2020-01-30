@@ -6,7 +6,7 @@ int main(){
 		scanf("%d",&j);
 		a[j]=a[j]+1;
 	}
-	for(i<0;i<32;i++){
+	for(i=0;i<32;i++){
 		printf("%d ",a[i]);
 	}
 	printf("\n");
