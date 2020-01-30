@@ -6,13 +6,12 @@ int main(void){
   for(i=0;i<num;i++){
     scanf("%d",&a);
     for(;;){
-      if(ans[a%13] != -1){
+      if(ans[a%13] == -1){
 	ans[a%13]=a;
 	break;
       }
       a++;
     }
-  
   }
   for(i=0;i<13;i++)printf("%d ",ans[i]);
   printf("\n");
