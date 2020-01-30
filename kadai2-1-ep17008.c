@@ -8,7 +8,7 @@ int main(){
 		k=j%13;
 		a[k]=j;
 	}
-	for(i=0;i<8;i++){
+	for(i=0;i<13;i++){
 		printf("%d ",a[i]);
 	}
 	printf("\n");
