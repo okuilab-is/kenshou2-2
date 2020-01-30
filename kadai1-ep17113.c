@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main(){
-  int a[32]={},i,x,j;
+  int a[32]={},i,x,j,n;
+  
+  scanf("%d",n);
   
   for(i=0;i<n;i++){
     scanf("%d",&x);
@@ -10,9 +12,10 @@ int main(){
   
   for(i=0;i<32;i++){
     for(j=0;j<a[i];j++){
-      print("%d",i);
+      printf("%d",i);
     }
   }  
+
   printf("\n");
 
 }
