@@ -3,7 +3,7 @@
 int main(){
   int a[32]={},i,x,j,n;
   
-  scanf("%d",n);
+  scanf("%d",&n);
   
   for(i=0;i<n;i++){
     scanf("%d",&x);
