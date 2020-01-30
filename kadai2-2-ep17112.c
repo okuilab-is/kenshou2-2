@@ -7,7 +7,10 @@ int main(){
 	for(i=0;i<n;i++){
 	  scanf("%d",&x);
 		y=x;
-		for(;h[x%13]!=-1;x++) h[x%13]=y;
+		for(;h[y%13]==-1;y++){
+		  h[y%13]=x;
+			break;
+	  }
 	}
 	for(i=0;i<13;i++) printf("%d ",h[i]);
   printf("\n");
