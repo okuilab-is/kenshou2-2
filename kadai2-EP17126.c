@@ -11,7 +11,7 @@ int main(void){
 		x[j]=num;
 	}
 
-	for(=0;i<13;i++){
-		printf("%d\n".x[i]);
+	for(i=0;i<13;i++){
+		printf("%d\n"x[i]);
 	}
 }
