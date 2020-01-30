@@ -10,5 +10,6 @@ int main(){
 	for(i=0;i<8;i++){
 		printf("%d ",a[i]);
 	}
+	printf("\n");
 	return 0;
 }
